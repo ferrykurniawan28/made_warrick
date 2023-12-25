@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690030521653",
+    "project_id": "matkul-97400",
+    "storage_bucket": "matkul-97400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690030521653:android:1eca220ccd5afbabd3b07c",
+        "android_client_info": {
+          "package_name": "com.example.made_warrick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgGJKs4sDGoIHDoMMrqo0d49Aitn3N5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
